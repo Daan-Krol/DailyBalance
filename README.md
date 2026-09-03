@@ -4,6 +4,8 @@ During my internship, I worked extensively with the Payuung Pribadi platform. As
 
 This prototype was designed and developed entirely by me as an early demonstration of how these concepts could work.
 
+![Payuung Logo](./public/Payuunglogo.png)
+
 ## Technologies
 - Next.js
 - TypeScript
@@ -28,3 +30,9 @@ This prototype was designed and developed entirely by me as an early demonstrati
 - A simple dashboard interface inspired by the Payuung Pribadi concept
 
 The backend is functional, with the application communicating with API routes that store and retrieve the user's daily activity data and streak information from the SQLite database.
+
+## Preview
+
+![Daily Balance Preview](./public/preview_image.png)
+
+![Payuung Image](./public/Payuungimage.png)
